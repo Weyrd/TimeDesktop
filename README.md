@@ -1,4 +1,5 @@
 # TimeDesktop
+Copyright : [Dyrudis](https://github.com/Dyrudis)
 
 
 ## Description
